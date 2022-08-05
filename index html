@@ -1,1 +1,30 @@
+<html> 
+<html lang="pt-br">
+ <head>
+ <meta charset="UTF-8"
+ <title> Engrenagem.Inc </title>
+ <link rel="stylesheet" href="style.css">
+ </head> 
 
+    <body>
+        <header>
+            <h1 class="titulo-principal"> HOME PRODUTO CONTATO</h1>
+        </header>
+        <img id="controle" src="controle.jpg">
+        <div class="principal">
+            <h2 class="titulo-centralizado"> Bem-Vindo (a/e) à Engrenagem.Inc </h2>
+
+            <p>Aqui você pode comprar e instalar os<strong>MELHORES JOGOS ONLINE ATUALIZADOS</strong> para 2022.</p>
+            <p> Além dos mais recentes lançamentos, temos todos os jogos por um preço mais acessível.</p>
+        </div>
+
+        <div class="TEMOS TAMBÉM">
+            <h3> 
+                class:"titulo-centralizado"> TEMOS TAMBÉM
+            </h3>
+            <img src="MODS.jpg" class="MODS">
+        </div>
+    </body>
+</html>
+
+    
