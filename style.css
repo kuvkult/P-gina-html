@@ -11,10 +11,10 @@ header, footer .principal {
   background color: #808080; color: #0000FF; text-align: center; font-size: 20 px; padding: 30 px;
 }
   
-h1 .titulo-principal {
+div class .titulo-principal {
   padding-left:20 px; text-align: center; background color: #c0c0c0; color: #daa520;}
  
-h2 .titulo-centralizado {
+div class .titulo-centralizado {
   text-align: center;}
   
 p { text-align: center; }
@@ -22,7 +22,7 @@ p { text-align: center; }
 em strong {
   color: #000000; }
   
-  h3 .TEMOS TAMBÉM  {text-align: center; color: #808080; padding: 20 px; }
+  div class .TEMOS TAMBÉM  {text-align: center; color: #808080; padding: 20 px; }
   
-  .MODS { witdh: 50x;}
+ div class .MODS { witdh: 50x;}
 </style>
