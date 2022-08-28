@@ -1,9 +1,10 @@
 body {
-  background-color: #000080; text-align: justify: font-size: 18px
+  background-color: #000080; text-align: justify; font-size: 18px;
 }
 
 #banner {
   width: 100%
+}
     
 header, footer .principal {
   background color: #808080; color: #0000FF; text-align: center; font-size: 20 px; padding: 30 px;
@@ -13,7 +14,7 @@ h1 .titulo-principal {
   padding-left:20 px; text-align: center; background color: #c0c0c0; color: #daa520;}
  
 h2 .titulo-centralizado {
-  text-align: center}
+  text-align: center;}
   
 p { text-align: center; }
   
